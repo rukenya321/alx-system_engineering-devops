@@ -73,7 +73,7 @@ rm *~
 
 102-tree
 #!/bin/bash
-mkdir -p welcome/ -p to/ -p school
+mkdir -p welcome/to/school
 
 103-commas
 #!/bin/bash
